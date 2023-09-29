@@ -1,0 +1,12 @@
+{
+    "title": "SkyHigh1",
+    "type": "window",
+    "name": "app",
+    "details": {
+        "allowCollapse": true,
+        "url": "C:/Users/stefan.valchev/Desktop/3.21.050/Demos/Web/skyhigh.html",
+        "nativeWindowOpen": "browser"
+    },
+    "cascade": {"offset": 1000}
+    
+}
